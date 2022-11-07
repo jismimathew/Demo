@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DemoProject.iml" filepath="$PROJECT_DIR$/DemoProject.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Demo-main.iml" filepath="$PROJECT_DIR$/Demo-main.iml" />
->>>>>>> 98adc27 (jismi commit)
     </modules>
   </component>
 </project>
